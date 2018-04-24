@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="package_name">com.tps.ascauser</string>
+
+    <!--Login-->
+    <string name="login_dummy">Login Dummy</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="notRegistered">Not Registered? SingUp?</string>
+    <string name="Registered">Registered? Login?</string>
+    <string name="Register">Register</string>
+
+</resources>
